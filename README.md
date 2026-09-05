@@ -22,7 +22,7 @@ LLM · 强化学习 · AI Agent · 深度学习框架 · 形式化验证 · 密�
 
 ---
 参与开发：
-![PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers)
+[![PaddleFormers](https://img.shields.io/badge/PaddleFormers-PaddlePaddle-0062FF?style=flat-square&logo=github&logoColor=white)](https://github.com/PaddlePaddle/PaddleFormers)
 
 使用：
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
