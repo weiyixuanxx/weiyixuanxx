@@ -21,7 +21,10 @@ LLM · 强化学习 · AI Agent · 深度学习框架 · 形式化验证 · 密�
 * 🐍 主要使用 **Python / PyTorch / Linux**
 
 ---
+参与开发：
+![PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers)
 
+使用：
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
