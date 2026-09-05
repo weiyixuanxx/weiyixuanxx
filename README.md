@@ -50,11 +50,6 @@ LLM · 强化学习 · AI Agent · 深度学习框架 · 形式化验证 · 密�
 
 ---
 
-## 📫 联系我
-
-GitHub：[@weiyixuanxx](https://github.com/weiyixuanxx)
-
----
 
 <p align="center">
   ⭐ 持续学习，持续实现，持续记录。
